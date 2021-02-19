@@ -127,6 +127,18 @@
         "goofy"
       ],
       "id": "12"
+    },
+    {
+      "name": "as",
+      "species": "sdf",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
+      ],
+      "id": "13"
     }
   ]
 }
